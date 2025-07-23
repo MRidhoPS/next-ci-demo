@@ -95,7 +95,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Go to javanice.com →
+          Go to zumbajakarta.com →
         </a>
       </footer>
     </div>
